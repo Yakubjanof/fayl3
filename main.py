@@ -5,4 +5,5 @@ print(" to'rtinchi qator")
 print(" git hub")
 print(" salom")
 print("Yoshiz nechida")
+print("qayerdansiz")
 
